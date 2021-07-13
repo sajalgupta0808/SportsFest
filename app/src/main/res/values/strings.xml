@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sports Fest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_badminton">Badminton</string>
+
+
+    <string name="default_web_client_id" translatable="false">27855083130-bi4c7gijdbkca18oh5a33kiq8fm0smni.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">27855083130</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4oyo54b591bWJw51zvddQSsjCSRGxZN4</string>
+    <string name="google_app_id" translatable="false">1:27855083130:android:687e4efdf8c65146498dc3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4oyo54b591bWJw51zvddQSsjCSRGxZN4</string>
+    <string name="google_storage_bucket" translatable="false">sports-fest-iiitdmj.appspot.com</string>
+    <string name="project_id" translatable="false">sports-fest-iiitdmj</string>
+</resources>
